@@ -1,2 +1,2 @@
-# AutoClicker
-Private
+# Private
+
